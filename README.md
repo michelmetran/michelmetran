@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Biólogo, formado na UNESP *campus* Rio Claro (2003-2008), onde desenvolvi um interesse especial pela área de botânica e ecologia de comunidades, culminando no meu [trabalho de conclusão de curso](https://drive.google.com/file/d/1LdKG25YGMsrmDcnZtv12TWat4p4LYjPs/view). Nesse trabalho tive meu primeiro contato com ferramentas de geoprocessamento e buscava compreender como havia ocorrido a regeneração de uma área reflorestada em 1916, com espécies nativas.
+
+[michelmetran.github.io](https://github.com/michelmetran/michelmetran.github.io)
+
+
+
 <!--
 **michelmetran/michelmetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
