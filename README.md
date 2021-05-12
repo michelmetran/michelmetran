@@ -6,8 +6,20 @@ Biólogo, formado na UNESP *campus* Rio Claro (2003-2008), onde desenvolvi um in
 
 
 
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="michelmetran"><a class="LI-simple-link" href='https://br.linkedin.com/in/michelmetran?trk=profile-badge'>Michel Metran</a></div>
+
+
+
+
+
 <!--
 **michelmetran/michelmetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 
 Here are some ideas to get you started:
 
