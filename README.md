@@ -4,18 +4,6 @@ Biólogo, formado na UNESP *campus* Rio Claro (2003-2008), onde desenvolvi um in
 
 [michelmetran.github.io](https://github.com/michelmetran/michelmetran.github.io)
 
-
-
-
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="michelmetran"><a class="LI-simple-link" href='https://br.linkedin.com/in/michelmetran?trk=profile-badge'>Michel Metran</a></div>
-
-
-
-
-
 <!--
 **michelmetran/michelmetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="michelmetran"><a class="LI-simple-link" href='https://br.linkedin.com/in/michelmetran?trk=profile-badge'>Michel Metran</a></div>
 -->
