@@ -6,9 +6,23 @@ Biólogo, formado na UNESP *campus* Rio Claro (2003-2008), onde desenvolvi um in
 
 ### Projects
 
-<img src="https://avatars.githubusercontent.com/u/87649197" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/87655373" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/87656898" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/91645398" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/87546024" width="150" height="150"/> 
+<div align="center"> 
+<a href="https://divisoes.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87649197" width="150" height="150"/></a> 
+<a href="https://opencantareira.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87655373" width="150" height="150"/></a> 
+<a href="https://openfocos.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87656898" width="150" height="150"/></a> 
+<a href="https://traquitanas.github.io/"><img src="https://avatars.githubusercontent.com/u/91645398" width="150" height="150"/></a> 
+<a href="https://gaemapiracicaba.github.io/"><img src="https://avatars.githubusercontent.com/u/87546024" width="150" height="150"/></a>
+ </div>
 
-<img src="https://avatars.githubusercontent.com/u/87656185" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/88065401" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/89882640" width="150" height="150"/> <img src="https://avatars.githubusercontent.com/u/87530621" width="150" height="150"/>
+<div align="center">
+<a href="https://open-geodata.github.io/"><img src="https://avatars.githubusercontent.com/u/87656185" width="150" height="150"/></a> 
+<a href="https://michelmetran.github.io/"><img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/></a> 
+<a href="https://open-dsa.github.io/"><img src="https://avatars.githubusercontent.com/u/88065401" width="150" height="150"/></a> 
+<a href="https://openescola.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/89882640" width="150" height="150"/></a> 
+<a href="https://open-consensus.github.io/"><img src="https://avatars.githubusercontent.com/u/87530621" width="150" height="150"/></a>
+</div>
+
+
 
 
 
