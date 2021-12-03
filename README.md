@@ -15,20 +15,22 @@ I currently work at the **São Paulo State Public Ministry**, working in the env
 ### *Projects*
 
 <div align="center"> 
-<a target="_blank" href="https://divisoes.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87649197" width="150" height="150"/></a> 
-<a target="_blank" href="https://opencantareira.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87655373" width="150" height="150"/></a> 
-<a target="_blank" href="https://openfocos.michelmetran.com.br/"><img src="https://avatars.githubusercontent.com/u/87656898" width="150" height="150"/></a> 
-<a target="_blank" href="https://gaemapiracicaba.github.io/"><img src="https://avatars.githubusercontent.com/u/87546024" width="150" height="150"/></a> 
-<a target="_blank" href="https://open-geodata.github.io/"><img src="https://avatars.githubusercontent.com/u/87656185" width="150" height="150"/></a>
+<a href="https://divisoes.michelmetran.com.br/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87649197" width="150" height="150"/></a> 
+<a href="https://opencantareira.michelmetran.com.br/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87655373" width="150" height="150"/></a> 
+<a href="https://openfocos.michelmetran.com.br/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87656898" width="150" height="150"/></a> 
+<a href="https://gaemapiracicaba.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87546024" width="150" height="150"/></a> 
+<a href="https://open-geodata.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87656185" width="150" height="150"/></a>
  </div>
 
 <div align="center">
-<a target="_blank" href="https://open-dsa.github.io/"><img src="https://avatars.githubusercontent.com/u/88065401" width="150" height="150"/></a> 
-<a target="_blank" href="https://traquitanas.github.io/"><img src="https://avatars.githubusercontent.com/u/91645398" width="150" height="150"/></a> 
-<a target="_blank" href="https://michelmetran.github.io/"><img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/></a> 
-<a target="_blank" href="https://openescola.herokuapp.com/"><img src="https://avatars.githubusercontent.com/u/89882640" width="150" height="150"/></a> 
-<a target="_blank" href="https://open-consensus.github.io/"><img src="https://avatars.githubusercontent.com/u/87530621" width="150" height="150"/></a>
+<a href="https://open-dsa.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/88065401" width="150" height="150"/></a> 
+<a href="https://traquitanas.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/91645398" width="150" height="150"/></a> 
+<a href="https://michelmetran.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/></a> 
+<a href="https://openescola.herokuapp.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/89882640" width="150" height="150"/></a> 
+<a href="https://open-consensus.github.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87530621" width="150" height="150"/></a>
 </div>
+
+
 
 <!--
 **michelmetran/michelmetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
