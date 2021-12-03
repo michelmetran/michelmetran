@@ -1,8 +1,24 @@
-### Hi there 👋
+### Hi there
 
 Biólogo, formado na UNESP *campus* Rio Claro (2003-2008), onde desenvolvi um interesse especial pela área de botânica e ecologia de comunidades, culminando no meu [trabalho de conclusão de curso](https://drive.google.com/file/d/1LdKG25YGMsrmDcnZtv12TWat4p4LYjPs/view). Nesse trabalho tive meu primeiro contato com ferramentas de geoprocessamento e buscava compreender como havia ocorrido a regeneração de uma área reflorestada em 1916, com espécies nativas.
 
-[michelmetran.github.io](https://github.com/michelmetran/michelmetran.github.io)
+<br>
+
+### Projects
+
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![https://divisoes.michelmetran.com.br/](https://avatars.githubusercontent.com/u/87649197?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/87656898?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/87655373?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/87656185?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/10374538?s=200&v=4) |
+| [**Divisões Administrativas**](https://divisoes.michelmetran.com.br/) |   [**Open Focos**](https://openfocos.michelmetran.com.br/)   | [**Open Cantareira**](https://opencantareira.michelmetran.com.br/) |     [**Open Geodata**](https://open-geodata.github.io/)      | [**michelmetran.github.io**](https://michelmetran.github.io) |
+|                                                              |                                                              |                                                              |                                                              |                                                              |
+| ![](https://avatars.githubusercontent.com/u/88065401?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/89882640?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/91645398?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/87546024?s=200&v=4) | ![](https://avatars.githubusercontent.com/u/87530621?s=200&v=4) |
+| [**Open Data Science and Analytics**](https://open-dsa.github.io/) |     [**Open Escola**](https://openescola.herokuapp.com/)     |      [**Traquitanas**](https://traquitanas.github.io/)       |  [**GAEMA Piracicaba**](https://github.com/gaemapiracicaba)  |   [**Open Consensus**](https://github.com/open-consensus)    |
+
+
+
+
+
+
 
 <!--
 **michelmetran/michelmetran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
 
 <!--
