@@ -4,6 +4,7 @@ Biólogo, permeando por diferentes áreas do conhecimento. Iniciei estudos na á
 
 Atualmente trabalho no **Ministério Público do Estado de São Paulo**, atuando na área ambiental, por meio de análises técnicas e assessoria aos promotores, e utilizo conhecimentos de programação para obter informações e fazer análises técnicas.
 
+
 -----
 
 Biologist, permeating different areas of knowledge. I started studies in the area of **botany**, I started to use **geoprocessing** to solve landscape ecology problems, aided by ***python***. I did my masters in the area of **hydrological modelling**, with intense use of ***R***.
