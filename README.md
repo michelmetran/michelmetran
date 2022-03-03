@@ -1,5 +1,8 @@
 ### Sobre / *About*
 
+
+
+
 Biólogo, permeando por diferentes áreas do conhecimento. Iniciei estudos na área de **botânica**, passei a utilizar o **geoprocessamento** para solucionar problemas de ecologia de paisagem, auxiliado pelo ***python***. Fiz meu mestrado na área de **modelagem hidrológica**, com uso intenso de ***R***.
 
 Atualmente trabalho no **Ministério Público do Estado de São Paulo**, atuando na área ambiental, por meio de análises técnicas e assessoria aos promotores, e utilizo conhecimentos de programação para obter informações e fazer análises técnicas.
