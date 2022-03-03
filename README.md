@@ -6,6 +6,9 @@ Atualmente trabalho no **Ministério Público do Estado de São Paulo**, atuando
 
 
 
+
+
+
 -----
 
 Biologist, permeating different areas of knowledge. I started studies in the area of **botany**, I started to use **geoprocessing** to solve landscape ecology problems, aided by ***python***. I did my masters in the area of **hydrological modelling**, with intense use of ***R***.
