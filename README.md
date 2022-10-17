@@ -25,7 +25,7 @@ I currently work at the **São Paulo State Public Ministry**, working in the env
 <div align="center">
 <a href="https://github.com/open-divisoes/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87649197" width="150" height="150"/></a> 
 <a href="https://github.com/traquitanas/" target="_blank"><img src="https://avatars.githubusercontent.com/u/91645398" width="150" height="150"/></a> 
-<a href="https://github.com/michelmetran?tab=repositories/" target="_blank"><img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/></a> 
+<a href="https://github.com/michelmetran?tab=repositories" target="_blank"><img src="https://avatars.githubusercontent.com/u/10374538" width="150" height="150"/></a> 
 <a href="https://github.com/open-escola/" target="_blank"><img src="https://avatars.githubusercontent.com/u/89882640" width="150" height="150"/></a> 
 <a href="https://github.com/open-consensus/" target="_blank"><img src="https://avatars.githubusercontent.com/u/87530621" width="150" height="150"/></a>
 </div>
